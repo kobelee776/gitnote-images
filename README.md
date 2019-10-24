@@ -1,1 +1,1 @@
-# note-image
+# gitnote-images
